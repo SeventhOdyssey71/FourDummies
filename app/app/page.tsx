@@ -1,7 +1,6 @@
 "use client"
 
 import { Button } from "@/components/ui/button"
-import { useWallet } from "@mysten/wallet-kit"
 import { useRouter } from "next/navigation"
 import { motion } from "framer-motion"
 import { useEffect } from "react"
