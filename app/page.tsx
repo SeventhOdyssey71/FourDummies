@@ -179,7 +179,7 @@ export default function Home() {
                   size="lg"
                   variant="outline"
                   className="w-full sm:w-auto border-blue-600 text-blue-600 hover:bg-blue-50 font-normal"
-                  onClick={() => handleButtonClick(false)}
+                  href="#features"
                 >
                   Explore Features
                 </Button>
